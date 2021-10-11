@@ -7,4 +7,5 @@
 - 📫 How to reach me: sandyghosh555@gmail.com
 - 😄 Pronouns: blocksan
 - ⚡ Fun fact: I can code 👨‍💻 
-- 🍺 check my another DApp -> https://solmates.in
+- 🍺 check my DApp 1 -> https://solgames.gun
+- 🍺 check my DApp 2 -> https://devfolio.co/submissions/solmates-0b85
